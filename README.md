@@ -1,0 +1,1 @@
+# database analyzer criado durante a aceleracao de data-science da codenations
