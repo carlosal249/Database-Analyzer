@@ -3,8 +3,8 @@
 <p> Requirements: </p>
 <ul>
   <li>pip install streamlit</li>
-  <li>pip install -U scikit-learn</li>
-  <li>pip install matplotlib </ul>
+  <li>pip install scikit-learn</li>
+  <li>pip install matplotlib </li>
   <li>pip install seaborn</li>
 </ul>
 
