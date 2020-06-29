@@ -8,4 +8,7 @@
   <li>pip install seaborn</li>
 </ul>
 
-<p> If you have all the requirements, download it, then open windows terminal and run app 'streamlit run app.py' </p>
+<p> If you have all the requirements, download it, then open windows terminal and run app 'streamlit run teste.py'</p>
+
+
+
