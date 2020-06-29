@@ -11,7 +11,7 @@
 <p> If you have all the requirements, download it, then open windows terminal and run app 'streamlit run teste.py'</p>
 
 <p> this is the head of the project! </p>
-![head image](https://github.com/carlosal249/Database-Analyzer/blob/master/head.PNG?raw=true) 
+
+![Head image](https://github.com/carlosal249/Database-Analyzer/blob/master/head.PNG)
 
 <p> in the first lines of code you can se the shape of the data,  head, and a little description of all the ints, floats and objects columns</p>
-
